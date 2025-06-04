@@ -1,0 +1,6 @@
+path: \Users\divig\Desktop\hdr-camera
+train: train\images
+val: valid\images
+
+names:
+  0: person
